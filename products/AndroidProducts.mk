@@ -9,4 +9,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/manta.mk \
     $(LOCAL_DIR)/tilapia.mk \
     $(LOCAL_DIR)/toro.mk \
-    $(LOCAL_DIR)/toroplus.mk
+    $(LOCAL_DIR)/toroplus.mk \
+    $(LOCAL_DIR)/d710.mk
